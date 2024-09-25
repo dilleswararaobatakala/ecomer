@@ -21,3 +21,5 @@ def check_the_branches_in_the_remote_location():
 def change_the_branch_one_branch_to_another_branch_in_locally():
     print("this is the command to change froom one branch to another branch in local mechine : git checkout dev ") 
 change_the_branch_one_branch_to_another_branch_in_locally()
+def good():
+    print("goodmrng")
